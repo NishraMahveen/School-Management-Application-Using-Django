@@ -1,2 +1,8 @@
-# School Management Application Using Django
- 
+# Django-School-Management-System
+
+This application is meant to be used by school manager to manage their school records:
+Student Details
+Staff Details
+Student Results
+Staff Payments
+
